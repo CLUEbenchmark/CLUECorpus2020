@@ -4,7 +4,7 @@
 
 Pre-training Corpus for Chinese
 
-2020年2月2日开源 
+2020年2月2日或之前，可下载使用
 
 
 
