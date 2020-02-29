@@ -1,13 +1,11 @@
 # CLUECorpus2020
 
 ## 语料介绍
-Large-scale Pre-training Corpus for Chinese, up to 100G 
 
-100G高质量中文预训练语料 
-
-可直接用于预训练、语言模型或生成任务
-
-Can be used to pretrain models directly, or for language models, enerating tasks.
+通过对<a href='http://commoncrawl.org'>Common Crawl</a>的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料。具体的数据介绍和我们的实验分析参见我们的<a href=''>技术报告</a>。
+数据特点：
+1. 可直接用于预训练、语言模型或语言生成任务。
+2. 发布专用于简体中文NLP任务的小词表。
 
 ## 词表介绍
 
@@ -41,13 +39,14 @@ Google原始中文词表和我们发布的小词表的统计信息如下：
 | BERT-base    | Google | C5 (3 GB)   | 375K  | 70.22% | 56.41%  | 59.58%    | 76.70% | 65.73% |
 | BERT-base    | CLUE   | C5 (3 GB)   | 375K  | 69.49% | 55.97%  | 60.12%    | 77.66% | 65.81% |
 
+更多实验结果和分析可以参考：<a href='https://github.com/CLUEbenchmark/CLUEPretrainedModels'>CLUEPretrainedModels</a>
+
 ## 数据下载
 
-2020年3月9日或之前，可下载使用
+申请方式：
+将使用语料研究目的和用途，计划、研究机构和申请者介绍，发送到邮箱，并承诺不向第三方提供。
 
-To be release on 2020 Mar 9th or before.
-
-届时也会同步更新改数据集下的实验效果对比
+邮箱: CLUEbenchmark@163.com，标题是：CLUECorpus2020 100G语料库
 
 ## 反馈和支持
 
