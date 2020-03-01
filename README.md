@@ -2,7 +2,7 @@
 
 ## 语料介绍
 
-通过对<a href='http://commoncrawl.org'>Common Crawl</a>的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料。具体的数据介绍和我们的实验分析参见我们的<a href=''>技术报告</a>。
+通过对<a href='http://commoncrawl.org'>Common Crawl</a>的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料。具体的数据介绍和我们的实验分析参见我们的<a href=''>技术报告</a>。实验产出的模型见：<a href='https://github.com/CLUEbenchmark/CLUEPretrainedModels'>高质量中文预训练模型，大号、超小和相似度预训练模型</a>
 
 #### 数据特点：
 1. 可直接用于预训练、语言模型或语言生成任务。
