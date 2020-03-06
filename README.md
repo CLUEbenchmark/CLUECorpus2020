@@ -65,6 +65,7 @@ Research supported with Cloud TPUs from Google's TensorFlow Research Cloud (TFRC
 
 CLUE是一个致力于中文自然语言处理的开源组织，如果您觉得我们的工作对您的学习或者业务等有帮助，希望能得到您的赞助，以便我们后续为大家提供更多更有用的开源工作，让我们一起为中文自然语言处理的发展和进步，尽一份力～
 
+**请备注捐赠者机构和姓名，非常感谢！**
 
 <table>
   <tr>
