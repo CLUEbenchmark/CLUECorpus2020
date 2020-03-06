@@ -61,4 +61,19 @@ Google原始中文词表和我们发布的小词表的统计信息如下：
 
 Research supported with Cloud TPUs from Google's TensorFlow Research Cloud (TFRC)
 
+## 捐赠
 
+CLUE是一个致力于中文自然语言处理的开源组织，如果您觉得我们的工作对您的学习或者业务等有帮助，希望能得到您的赞助，以便我们后续为大家提供更多更有用的开源工作，让我们一起为中文自然语言处理的发展和进步，尽一份力～
+
+
+<table>
+  <tr>
+    <th width="50%">支付宝</th>
+    <th width="50%">微信</th>
+  </tr>
+  <tr></tr>
+  <tr align="center">
+    <td><img width="100%" src="https://github.com/CLUEbenchmark/CLUECorpus2020/raw/master/pics/alipay.jpeg"></td>
+    <td><img width="68%" src="https://github.com/CLUEbenchmark/CLUECorpus2020/raw/master/pics/wechat.jpeg"></td>
+  </tr>
+</table>
