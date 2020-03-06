@@ -68,12 +68,12 @@ CLUE是一个致力于中文自然语言处理的开源组织，如果您觉得�
 
 <table>
   <tr>
-    <th width="50%">支付宝</th>
-    <th width="50%">微信</th>
+    <th width="30%">支付宝</th>
+    <th width="30%">微信</th>
   </tr>
   <tr></tr>
   <tr align="center">
-    <td><img width="100%" src="https://github.com/CLUEbenchmark/CLUECorpus2020/raw/master/pics/alipay.jpeg"></td>
-    <td><img width="68%" src="https://github.com/CLUEbenchmark/CLUECorpus2020/raw/master/pics/wechat.jpeg"></td>
+    <td><img width="70%" src="https://github.com/CLUEbenchmark/CLUECorpus2020/raw/master/pics/alipay.jpeg"></td>
+    <td><img width="48%" src="https://github.com/CLUEbenchmark/CLUECorpus2020/raw/master/pics/wechat.jpeg"></td>
   </tr>
 </table>
