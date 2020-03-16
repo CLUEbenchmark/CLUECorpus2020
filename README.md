@@ -33,7 +33,7 @@ Google原始中文词表和我们发布的小词表的统计信息如下：
 
 使用小数据集在BERT-base上的效果对比：
 
-| Model        | Vocab  | Data        | Steps | AFQMC  | TNEWS'  | IFLYTEK'  | CMNLI  |  AVG   | 
+| Model        | Vocab  | Data        | Steps | AFQMC  | TNEWS'  | IFLYTEK'  | CMNLI  |  AVG   |
 | :----:| :----: | :----: | :----: |:----: |:----: |:----: |:----: |:----: |
 | BERT-base    | Google | Wiki (1 GB) | 125K  | 69.93% | 54.77%  | 57.54%    | 75.64% | 64.47% |
 | BERT-base    | Google | C5 (1 GB)   | 125K  | 69.63% | 55.72%  | 58.87%    | 75.75% | 64.99% |
@@ -52,6 +52,22 @@ Google原始中文词表和我们发布的小词表的统计信息如下：
 将使用语料研究目的和用途，计划、研究机构和申请者介绍，发送到邮箱，并承诺不向第三方提供。
 
 邮箱: CLUEbenchmark@163.com，标题是：CLUECorpus2020 100G语料库
+
+# CLUECorpusSmall（14G）
+
+可用于语言建模、预训练或生成型任务等，数据量超过14G，近4000个定义良好的txt文件、50亿个字。主要部分来自于<a href="https://github.com/brightmart/nlp_chinese_corpus">nlp_chinese_corpus项目</a>
+
+当前语料库按照【预训练格式】处理，内含有多个文件夹；每个文件夹有许多不超过4M大小的小文件，文件格式符合预训练格式：每句话一行，文档间空行隔开。
+
+包含如下子语料库（总共14G语料）：
+
+1、<a href="https://pan.baidu.com/s/195M7H5w3N8shYlqCjVL0_Q">新闻语料 news2016zh_corpus</a>: 8G语料，分成两个上下两部分，总共有2000个小文件。  密码:mzlk
+
+2、<a href="https://pan.baidu.com/s/1Vk2PihMiZNmWvA2agPb1iA">社区互动-语料 webText2019zh_corpus</a>：3G语料，包含3G文本，总共有900多个小文件。 密码:qvlq
+
+3、<a href="https://pan.baidu.com/s/1XrM-x70PY4JEb0xCoB_mUw">维基百科-语料 wiki2019zh_corpus</a>：1.1G左右文本，包含300左右小文件。  密码:rja4
+
+4、<a href="https://pan.baidu.com/s/16cPwCcPduMNGdRSuILhEuQ">评论数据-语料 comments2019zh_corpus</a>：2.3G左右文本，共784个小文件，包括点评评论547个、亚马逊评论227个，合并<a href="https://github.com/InsaneLife/ChineseNLPCorpus">ChineseNLPCorpus</a>的多个评论数据，清洗、格式转换、拆分成小文件。  密码:5kwk
 
 ## 反馈和支持
 
