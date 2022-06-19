@@ -51,7 +51,7 @@ Google原始中文词表和我们发布的小词表的统计信息如下：
 申请方式：
 将使用语料研究目的和用途，计划、研究机构和申请者介绍，发送到邮箱，并承诺不向第三方提供。
 
-邮箱: CLUEbenchmark@163.com，标题是：CLUECorpus2020 100G语料库
+邮箱: CLUEbenchmark@163.com，标题是：CLUECorpus2020 200G语料库
 
 # CLUECorpusSmall（14G）
 
